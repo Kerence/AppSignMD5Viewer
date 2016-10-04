@@ -1,0 +1,32 @@
+ext {
+    vRobolectricVersion = "3.0"
+    vCompileSdkVersion = 18
+    vBuildToolVersion = "23.0.1"
+}
+
+buildscript {
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.0'
+
+//        classpath 'com.jakewharton.sdkmanager:gradle-plugin:0.12.+'
+    }
+    tasks.withType(JavaCompile) { options.encoding = "UTF-8" }
+}
+ext {
+    compileSdkVersion = 21
+    buildToolsVersion = "22.0.1"
+}
+allprojects {
+    repositories {
+        maven { url "http://dl.bintray.com/populov/maven" }
+        maven { url "http://dl.bintray.com/kerence/maven" }
+        mavenCentral()
+        jcenter()
+    }
+
+}

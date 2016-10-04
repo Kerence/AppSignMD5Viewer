@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppSignMD5Viewer.iml" filepath="$PROJECT_DIR$/AppSignMD5Viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD5SignViewer/MD5SignViewer.iml" filepath="$PROJECT_DIR$/MD5SignViewer/MD5SignViewer.iml" />
+    </modules>
+  </component>
+</project>

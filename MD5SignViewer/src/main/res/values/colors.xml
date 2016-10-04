@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dividi_module">#F3F3F3</color>
+    <color name="dividi">#E0E0E0</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="order_text_select">#1CA1E2</color>
+    <color name="order_text_unselect">#9B9B9B</color>
+    <color name="green">#ff61a71a</color>
+    <color name="red">#ff61a71a</color>
+    <color name="maptextbackgroundcolor">#17B3ED</color>
+    <color name="topbarcolor">#00A0E9</color>
+    <color name="pois_small_text">#9A9A9A</color>
+    <color name="alpha_black">#00000000</color>
+    <color name="pois_big_text">#535353</color>
+    <color name="frist_gray">#F5F4F4</color>
+    <color name="gray">#ff777777</color>
+    <color name="red_color">#ff0000</color>
+
+
+    <color name="login_gray">#c8c8c8</color>
+
+
+    <color name="blue">#FF375BF1</color>
+    <color name="yellow">#FFF7D23E</color>
+</resources>
