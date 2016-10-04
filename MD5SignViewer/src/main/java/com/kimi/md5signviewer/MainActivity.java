@@ -1,5 +1,6 @@
 package com.kimi.md5signviewer;
 
+import android.app.Activity;
 import android.content.Context;
 import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageInfo;
@@ -17,13 +18,12 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.clcw.mobile.adapter.BasicAdapter;
-import com.clcw.mobile.app.ClcwBaseFragmentActivity;
-import com.clcw.mobile.util.MD5Util;
-import com.clcw.mobile.util.StringUtil;
-import com.clcw.mobile.util.ToastUtils;
-import com.lidroid.xutils.ViewUtils;
-import com.lidroid.xutils.view.annotation.ViewInject;
+import com.kimi.md5signviewer.util.BasicAdapter;
+import com.kimi.md5signviewer.util.MD5Util;
+import com.kimi.md5signviewer.util.ToastUtils;
+
+import org.xutils.view.annotation.ViewInject;
+import org.xutils.x;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -31,7 +31,7 @@ import java.util.List;
 /**
  * Created by kimi on 2016/5/2.
  */
-public class MainActivity extends ClcwBaseFragmentActivity {
+public class MainActivity extends Activity {
     public class Model {
         public String pkgName;
         public String appName;
@@ -49,6 +49,7 @@ public class MainActivity extends ClcwBaseFragmentActivity {
         public Md5Adapter(Context c) {
             super(c);
         }
+
         //        @ViewInject(R.id.tv_app_name)
         TextView tv_app_name;
         @ViewInject(R.id.tv_package_name)
@@ -66,7 +67,7 @@ public class MainActivity extends ClcwBaseFragmentActivity {
                 convertView = inflator.inflate(R.layout.item_layout, null);
             }
             final Model m = data.get(position);
-            ViewUtils.inject(this, convertView);
+            x.view().inject(this, convertView);
 //            tv_app_name.setText(m.appName);
             tv_package_name.setText(m.pkgName);
             tv_md5.setText(m.md5);
@@ -86,7 +87,7 @@ public class MainActivity extends ClcwBaseFragmentActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        ViewUtils.inject(this);
+        x.view().inject(this);
         et_search.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
@@ -103,7 +104,7 @@ public class MainActivity extends ClcwBaseFragmentActivity {
 
             }
         });
-        PackageManager pkgMgr = context.getPackageManager();
+        PackageManager pkgMgr = getPackageManager();
         List<ApplicationInfo> lai = pkgMgr.getInstalledApplications(0);
         for (ApplicationInfo ai : lai) {
             Model m = new Model();
@@ -111,7 +112,7 @@ public class MainActivity extends ClcwBaseFragmentActivity {
             m.md5 = getSign(this, ai.packageName);
             lpi.add(m);
         }
-        adapter = new Md5Adapter(context);
+        adapter = new Md5Adapter(this);
         adapter.setData(lpi);
         lv.setAdapter(adapter);
     }
@@ -120,7 +121,7 @@ public class MainActivity extends ClcwBaseFragmentActivity {
     List<Model> lpi = new ArrayList<Model>();
 
     void search(String t) {
-        if (StringUtil.isStringEmpty(t)) {
+        if (t == null || "".equals(t)) {
             adapter.setData(lpi);
         } else {
             List<Model> sr = new ArrayList<Model>();

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <declare-styleable name="TopBar">
         <attr name="topbar_title" format="string" />
         <attr name="topbar_titleTextSize" format="dimension" />
@@ -12,15 +11,4 @@
         <attr name="rightBackground" format="reference|color" />
         <attr name="rightText" format="string" />
     </declare-styleable>
-
-
-
-
-
-    <declare-styleable name="roundedimageview">
-        <attr name="border_thickness" format="dimension" />
-        <attr name="border_inside_color" format="color" />
-        <attr name="border_outside_color" format="color"></attr>
-    </declare-styleable>
-
 </resources>

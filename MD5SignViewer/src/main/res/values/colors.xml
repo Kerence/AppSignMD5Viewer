@@ -7,7 +7,7 @@
     <color name="order_text_select">#1CA1E2</color>
     <color name="order_text_unselect">#9B9B9B</color>
     <color name="green">#ff61a71a</color>
-    <color name="red">#ff61a71a</color>
+    <color name="red">#ffff0000</color>
     <color name="maptextbackgroundcolor">#17B3ED</color>
     <color name="topbarcolor">#00A0E9</color>
     <color name="pois_small_text">#9A9A9A</color>
