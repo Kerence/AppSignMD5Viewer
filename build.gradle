@@ -16,7 +16,7 @@ buildscript {
     tasks.withType(JavaCompile) { options.encoding = "UTF-8" }
 }
 ext {
-    compileSdkVersion = 21
+    compileSdkVersion = 19
     buildToolsVersion = "22.0.1"
 }
 allprojects {

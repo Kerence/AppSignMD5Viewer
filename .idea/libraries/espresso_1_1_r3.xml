@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="espresso-1.1-r3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MD5SignViewer/build/intermediates/exploded-aar/com.jakewharton.espresso/espresso/1.1-r3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/MD5SignViewer/build/intermediates/exploded-aar/com.jakewharton.espresso/espresso/1.1-r3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.espresso/espresso/1.1-r3/1c92c97bfeb211a4e3e88a1295d2446edbf417a1/espresso-1.1-r3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

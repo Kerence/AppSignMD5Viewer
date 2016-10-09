@@ -79,7 +79,7 @@ public abstract class BasicAdapter<T> extends BaseAdapter {
     /**
      * 添加数据
      *
-     * @param list
+     * @param item
      */
     public void appendData(T item) {// 把list的内容加到data上
         data.add(item);
@@ -89,7 +89,7 @@ public abstract class BasicAdapter<T> extends BaseAdapter {
      * 添加数据
      * 数据不存在则添加
      *
-     * @param list
+     * @param item
      */
     public void appendDataExclusively(T item) {// 把list的内容加到data上
         synchronized (data) {

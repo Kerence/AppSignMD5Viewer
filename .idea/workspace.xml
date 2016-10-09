@@ -14,23 +14,30 @@
       </layout>
     </layouts>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="actioncode" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2827a399-5382-477f-b2b9-bd0b2c14dcdc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_MD5SignViewer_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_MD5SignViewer_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_MD5SignViewer_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_MD5SignViewer_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_MD5SignViewer_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_MD5SignViewer_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_MD5SignViewer_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_MD5SignViewer_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MD5SignViewer/MD5SignViewer.iml" afterPath="$PROJECT_DIR$/MD5SignViewer/MD5SignViewer.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MD5SignViewer/build.gradle" afterPath="$PROJECT_DIR$/MD5SignViewer/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/AppContext.java" afterPath="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/AppContext.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/MainActivity.java" afterPath="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MD5SignViewer/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/MD5SignViewer/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MD5SignViewer/src/main/res/layout/item_layout.xml" afterPath="$PROJECT_DIR$/MD5SignViewer/src/main/res/layout/item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MD5SignViewer/src/main/res/values/attrs.xml" afterPath="$PROJECT_DIR$/MD5SignViewer/src/main/res/values/attrs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MD5SignViewer/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/MD5SignViewer/src/main/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/BasicAdapter.java" afterPath="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/BasicAdapter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
     </list>
     <ignored path="AppSignMD5Viewer.iws" />
@@ -64,63 +71,212 @@
         <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+              <caret line="68" column="40" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5322581">
-              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="item_layout.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/res/layout/item_layout.xml">
+      <file leaf-file-name="BasicAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/BasicAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/res/values/colors.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MD5Util.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/MD5Util.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="35" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="35" />
-              <folding />
+              <caret line="91" column="18" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1729#1730#0" expanded="false" />
+                <element signature="e#1777#1778#0" expanded="false" />
+                <element signature="e#3292#3293#0" expanded="false" />
+                <element signature="e#3319#3320#0" expanded="false" />
+                <element signature="e#3605#3606#0" expanded="false" />
+                <element signature="e#3646#3647#0" expanded="false" />
+                <element signature="e#3689#3690#0" expanded="false" />
+                <element signature="e#3720#3721#0" expanded="false" />
+                <element signature="e#3753#3754#0" expanded="false" />
+                <element signature="e#3780#3781#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MD5.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xutils/xutils/3.3.36/45c31e9a243f475802eadf1412455c26963e7a7d/xutils-3.3.36-sources.jar!/org/xutils/common/util/MD5.java">
+      <file leaf-file-name="ContextWrapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://D:/android_sdk/sdk/sources/android-19/android/content/ContextWrapper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+              <caret line="92" column="26" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#19266#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1896#1897#0" expanded="false" />
+                <element signature="e#1924#1925#0" expanded="false" />
+                <element signature="e#2527#2528#0" expanded="false" />
+                <element signature="e#2555#2556#0" expanded="false" />
+                <element signature="e#2608#2609#0" expanded="false" />
+                <element signature="e#2648#2649#0" expanded="false" />
+                <element signature="e#2705#2706#0" expanded="false" />
+                <element signature="e#2748#2749#0" expanded="false" />
+                <element signature="e#2811#2812#0" expanded="false" />
+                <element signature="e#2859#2860#0" expanded="false" />
+                <element signature="e#2924#2925#0" expanded="false" />
+                <element signature="e#2973#2974#0" expanded="false" />
+                <element signature="e#3024#3025#0" expanded="false" />
+                <element signature="e#3068#3069#0" expanded="false" />
+                <element signature="e#3132#3133#0" expanded="false" />
+                <element signature="e#3184#3185#0" expanded="false" />
+                <element signature="e#3241#3242#0" expanded="false" />
+                <element signature="e#3278#3279#0" expanded="false" />
+                <element signature="e#3343#3344#0" expanded="false" />
+                <element signature="e#3387#3388#0" expanded="false" />
+                <element signature="e#3442#3443#0" expanded="false" />
+                <element signature="e#3481#3482#0" expanded="false" />
+                <element signature="e#3538#3539#0" expanded="false" />
+                <element signature="e#3583#3584#0" expanded="false" />
+                <element signature="e#3635#3636#0" expanded="false" />
+                <element signature="e#3680#3681#0" expanded="false" />
+                <element signature="e#3753#3754#0" expanded="false" />
+                <element signature="e#3802#3803#0" expanded="false" />
+                <element signature="e#3873#3874#0" expanded="false" />
+                <element signature="e#3920#3921#0" expanded="false" />
+                <element signature="e#3985#3986#0" expanded="false" />
+                <element signature="e#4034#4035#0" expanded="false" />
+                <element signature="e#4098#4099#0" expanded="false" />
+                <element signature="e#4151#4152#0" expanded="false" />
+                <element signature="e#4207#4208#0" expanded="false" />
+                <element signature="e#4256#4257#0" expanded="false" />
+                <element signature="e#4338#4339#0" expanded="false" />
+                <element signature="e#4391#4392#0" expanded="false" />
+                <element signature="e#4933#4934#0" expanded="false" />
+                <element signature="e#4978#4979#0" expanded="false" />
+                <element signature="e#5042#5043#0" expanded="false" />
+                <element signature="e#5094#5095#0" expanded="false" />
+                <element signature="e#5142#5143#0" expanded="false" />
+                <element signature="e#5181#5182#0" expanded="false" />
+                <element signature="e#5228#5229#0" expanded="false" />
+                <element signature="e#5270#5271#0" expanded="false" />
+                <element signature="e#5340#5341#0" expanded="false" />
+                <element signature="e#5394#5395#0" expanded="false" />
+                <element signature="e#5463#5464#0" expanded="false" />
+                <element signature="e#5518#5519#0" expanded="false" />
+                <element signature="e#5563#5564#0" expanded="false" />
+                <element signature="e#5603#5604#0" expanded="false" />
+                <element signature="e#5651#5652#0" expanded="false" />
+                <element signature="e#5692#5693#0" expanded="false" />
+                <element signature="e#5739#5740#0" expanded="false" />
+                <element signature="e#5781#5782#0" expanded="false" />
+                <element signature="e#5836#5837#0" expanded="false" />
+                <element signature="e#5886#5887#0" expanded="false" />
+                <element signature="e#5944#5945#0" expanded="false" />
+                <element signature="e#5995#5996#0" expanded="false" />
+                <element signature="e#6058#6059#0" expanded="false" />
+                <element signature="e#6105#6106#0" expanded="false" />
+                <element signature="e#6590#6591#0" expanded="false" />
+                <element signature="e#6639#6640#0" expanded="false" />
+                <element signature="e#6701#6702#0" expanded="false" />
+                <element signature="e#6751#6752#0" expanded="false" />
+                <element signature="e#6803#6804#0" expanded="false" />
+                <element signature="e#6846#6847#0" expanded="false" />
+                <element signature="e#6898#6899#0" expanded="false" />
+                <element signature="e#6941#6942#0" expanded="false" />
+                <element signature="e#6994#6995#0" expanded="false" />
+                <element signature="e#7038#7039#0" expanded="false" />
+                <element signature="e#7104#7105#0" expanded="false" />
+                <element signature="e#7166#7167#0" expanded="false" />
+                <element signature="e#7710#7711#0" expanded="false" />
+                <element signature="e#7753#7754#0" expanded="false" />
+                <element signature="e#8289#8290#0" expanded="false" />
+                <element signature="e#8335#8336#0" expanded="false" />
+                <element signature="e#9402#9403#0" expanded="false" />
+                <element signature="e#9445#9446#0" expanded="false" />
+                <element signature="e#11631#11632#0" expanded="false" />
+                <element signature="e#11680#11681#0" expanded="false" />
+                <element signature="e#12118#12119#0" expanded="false" />
+                <element signature="e#12169#12170#0" expanded="false" />
+                <element signature="e#13853#13854#0" expanded="false" />
+                <element signature="e#13903#13904#0" expanded="false" />
+                <element signature="e#13964#13965#0" expanded="false" />
+                <element signature="e#14010#14011#0" expanded="false" />
+                <element signature="e#14811#14812#0" expanded="false" />
+                <element signature="e#14852#14853#0" expanded="false" />
+                <element signature="e#15133#15134#0" expanded="false" />
+                <element signature="e#15184#15185#0" expanded="false" />
+                <element signature="e#18656#18657#0" expanded="false" />
+                <element signature="e#18696#18697#0" expanded="false" />
+                <element signature="e#19057#19058#0" expanded="false" />
+                <element signature="e#19100#19101#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Util.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/Util.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#487#488#0" expanded="false" />
+                <element signature="e#518#519#0" expanded="false" />
+                <element signature="e#584#585#0" expanded="false" />
+                <element signature="e#624#625#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UtilTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/test/java/com/kimi/md5signviewer/util/UtilTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DialogInterface.java" pinned="false" current-in-tab="true">
+        <entry file="file://D:/android_sdk/sdk/sources/android-19/android/content/DialogInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.50898206">
+              <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivityTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/test/java/com/kimi/md5signviewer/MainActivityTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Md5Adapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/Md5Adapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#565#566#0" expanded="false" />
+                <element signature="e#589#590#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Md5AdapterTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/test/java/com/kimi/md5signviewer/Md5AdapterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="false" />
               </folding>
@@ -133,45 +289,31 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="37" column="32" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AppContext.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/AppContext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#309#310#0" expanded="false" />
+                <element signature="e#353#354#0" expanded="false" />
+                <element signature="e#454#455#0" expanded="false" />
+                <element signature="e#502#503#0" expanded="false" />
+                <element signature="e#555#556#0" expanded="false" />
+                <element signature="e#611#612#0" expanded="false" />
+                <element signature="e#658#659#0" expanded="false" />
+                <element signature="e#705#706#0" expanded="false" />
+                <element signature="e#753#754#0" expanded="false" />
+                <element signature="e#801#802#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SystemUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/SystemUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BasicAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/BasicAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -693,6 +835,21 @@
                 <option name="description" value="Prepare com.android.support:multidex-instrumentation:1.0.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareComAndroidSupportMultidexInstrumentation101Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.jakewharton.espresso:espresso:1.1-r3" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComJakewhartonEspressoEspresso11R3Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.jakewharton.espresso:espresso-runner:1.1-r3" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComJakewhartonEspressoEspressoRunner11R3Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.jakewharton.espresso:espresso-runner-runtime:1.1-r3" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComJakewhartonEspressoEspressoRunnerRuntime11R3Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1358,6 +1515,21 @@
                 <option name="name" value="prepareComAndroidSupportMultidexInstrumentation101Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.jakewharton.espresso:espresso:1.1-r3" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/MD5SignViewer" />
+                <option name="name" value="prepareComJakewhartonEspressoEspresso11R3Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.jakewharton.espresso:espresso-runner:1.1-r3" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/MD5SignViewer" />
+                <option name="name" value="prepareComJakewhartonEspressoEspressoRunner11R3Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.jakewharton.espresso:espresso-runner-runtime:1.1-r3" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/MD5SignViewer" />
+                <option name="name" value="prepareComJakewhartonEspressoEspressoRunnerRuntime11R3Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/MD5SignViewer" />
                 <option name="name" value="prepareDebugAndroidTestDependencies" />
               </ExternalTaskPojo>
@@ -1574,7 +1746,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="F:/clcw_svn/android" value="34756747800611" />
-        <entry key="$PROJECT_DIR$" value="4426558309959" />
+        <entry key="$PROJECT_DIR$" value="4426810584900" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1756,7 +1928,18 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xutils/xutils/3.3.36/22c1ffcc255c14e4d1249b38b7f7aab08cb1f544/xutils-3.3.36.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.espresso/espresso/1.1-r3/4f8a31ae17b3c8d2e7b514b98de0ad984d50c206/espresso-1.1-r3.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.espresso/espresso-runner-runtime/1.1-r3/434bdca39b6af6a193649f36e086dbec605ff068/espresso-runner-runtime-1.1-r3.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.1/78f96ef00fceee95802930944b1fc4e0e1f9aacc/dagger-1.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.1/8d47177aa4da0f259fc823a39736bad2f09993d5/hamcrest-integration-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/16.0/aca09d2e5e8416bf91550e72281958e35460be52/guava-16.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.1/b988c01468e3398d46678a2eb48aeb5bde271e9f/hamcrest-library-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.espresso/espresso-runner/1.1-r3/f0725186b82e9faad1e6388fc2b1bc06471933b/espresso-runner-1.1-r3.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/MD5SignViewer" />
@@ -1899,26 +2082,29 @@
       <list>
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/MD5SignViewer/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/MD5SignViewer/build.gradle" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/MD5SignViewer/src/main/res/values/attrs.xml" />
-        <option value="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/BasicAdapter.java" />
         <option value="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/ToastUtils.java" />
         <option value="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/SystemUtil.java" />
         <option value="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/MD5Util.java" />
         <option value="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/AppContext.java" />
-        <option value="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/MainActivity.java" />
         <option value="$PROJECT_DIR$/MD5SignViewer/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/MD5SignViewer/src/main/res/layout/item_layout.xml" />
         <option value="$PROJECT_DIR$/MD5SignViewer/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/MD5SignViewer/build.gradle" />
+        <option value="$PROJECT_DIR$/MD5SignViewer/src/test/java/com/kimi/md5signviewer/Md5AdapterTest.java" />
+        <option value="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/Md5Adapter.java" />
+        <option value="$PROJECT_DIR$/MD5SignViewer/src/test/java/com/kimi/md5signviewer/MainActivityTest.java" />
+        <option value="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/MainActivity.java" />
+        <option value="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/Util.java" />
+        <option value="$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/BasicAdapter.java" />
+        <option value="$PROJECT_DIR$/MD5SignViewer/src/test/java/com/kimi/md5signviewer/util/UtilTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1555" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -1945,9 +2131,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppSignMD5Viewer" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppSignMD5Viewer" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MD5SignViewer" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1980,262 +2187,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MD5SignViewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MD5SignViewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MD5SignViewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MD5SignViewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MD5SignViewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="md5signviewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MD5SignViewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="md5signviewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MD5SignViewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MD5SignViewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="outputs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="logs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MD5SignViewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="outputs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSignMD5Viewer" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MD5SignViewer" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2244,13 +2200,143 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
+    <property name="device.picker.selection" value="127.0.0.1:62027" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.kimi.md5signviewer.util" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\github_project\AppSignMD5Viewer\MD5SignViewer\src\test\java" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.MD5SignViewer">
+    <configuration default="false" name="Md5AdapterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.kimi.md5signviewer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MD5SignViewer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.kimi.md5signviewer" />
+      <option name="MAIN_CLASS_NAME" value="com.kimi.md5signviewer.Md5AdapterTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="UtilTest.searchEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.kimi.md5signviewer.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MD5SignViewer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.kimi.md5signviewer.util" />
+      <option name="MAIN_CLASS_NAME" value="com.kimi.md5signviewer.util.UtilTest" />
+      <option name="METHOD_NAME" value="searchEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="UtilTest.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.kimi.md5signviewer.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MD5SignViewer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.kimi.md5signviewer.util" />
+      <option name="MAIN_CLASS_NAME" value="com.kimi.md5signviewer.util.UtilTest" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="UtilTest.searchWithNoneEmptyResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.kimi.md5signviewer.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MD5SignViewer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.kimi.md5signviewer.util" />
+      <option name="MAIN_CLASS_NAME" value="com.kimi.md5signviewer.util.UtilTest" />
+      <option name="METHOD_NAME" value="searchWithNoneEmptyResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="java in MD5SignViewer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="MD5SignViewer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <dir value="$PROJECT_DIR$/MD5SignViewer/src/test/java" />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -2463,7 +2549,7 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="MD5SignViewer" type="AndroidRunConfigurationType" factoryName="Android Application">
+    <configuration default="false" name="MD5SignViewer" type="AndroidRunConfigurationType" factoryName="Android Application" activateToolWindowBeforeRun="false">
       <module name="MD5SignViewer" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -2497,9 +2583,23 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Android Application.MD5SignViewer" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Md5AdapterTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.UtilTest.searchEmpty" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.UtilTest.search" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.UtilTest.searchWithNoneEmptyResult" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.java in MD5SignViewer" />
     </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.java in MD5SignViewer" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Md5AdapterTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.UtilTest.searchWithNoneEmptyResult" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.UtilTest.search" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.UtilTest.searchEmpty" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="HTML_FILE_NAME" />
@@ -2514,6 +2614,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\kimi\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2827a399-5382-477f-b2b9-bd0b2c14dcdc" name="Default" comment="" />
@@ -2523,48 +2626,175 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Md5AdapterTest - 2016.10.05 at 14h 06m 27s.xml">
+      <configuration name="Md5AdapterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Md5AdapterTest_modelMapToView - 2016.10.05 at 13h 40m 33s.xml">
+      <configuration name="Md5AdapterTest.modelMapToView" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilTest_search - 2016.10.05 at 13h 58m 50s.xml">
+      <configuration name="UtilTest.search" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilTest_searchEmpty - 2016.10.05 at 13h 58m 42s.xml">
+      <configuration name="UtilTest.searchEmpty" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilTest_searchWithNoneEmptyResult - 2016.10.05 at 14h 00m 39s.xml">
+      <configuration name="UtilTest.searchWithNoneEmptyResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilTest_searchWithNoneEmptyResult - 2016.10.05 at 14h 01m 14s.xml">
+      <configuration name="UtilTest.searchWithNoneEmptyResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilTest_searchWithNoneEmptyResult - 2016.10.05 at 14h 03m 27s.xml">
+      <configuration name="UtilTest.searchWithNoneEmptyResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilTest_searchWithNoneEmptyResult - 2016.10.05 at 14h 04m 02s.xml">
+      <configuration name="UtilTest.searchWithNoneEmptyResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UtilTest_searchWithNoneEmptyResult - 2016.10.05 at 14h 04m 18s.xml">
+      <configuration name="UtilTest.searchWithNoneEmptyResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="java_in_MD5SignViewer - 2016.10.05 at 14h 06m 43s.xml">
+      <configuration name="java in MD5SignViewer" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1555" height="1040" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36556605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.317217" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3150034" sideWeight="0.36945814" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.75600964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3313679" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973032" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3150034" sideWeight="0.63054186" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25134844" sideWeight="0.24518614" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973032" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/res/layout/item_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xutils/xutils/3.3.36/45c31e9a243f475802eadf1412455c26963e7a7d/xutils-3.3.36-sources.jar!/org/xutils/common/util/MD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/ToastUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#309#310#0" expanded="false" />
+            <element signature="e#353#354#0" expanded="false" />
+            <element signature="e#454#455#0" expanded="false" />
+            <element signature="e#502#503#0" expanded="false" />
+            <element signature="e#555#556#0" expanded="false" />
+            <element signature="e#611#612#0" expanded="false" />
+            <element signature="e#658#659#0" expanded="false" />
+            <element signature="e#705#706#0" expanded="false" />
+            <element signature="e#753#754#0" expanded="false" />
+            <element signature="e#801#802#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/AppContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/SystemUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/BasicAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1729#1730#0" expanded="false" />
+            <element signature="e#1777#1778#0" expanded="false" />
+            <element signature="e#3292#3293#0" expanded="false" />
+            <element signature="e#3319#3320#0" expanded="false" />
+            <element signature="e#3605#3606#0" expanded="false" />
+            <element signature="e#3646#3647#0" expanded="false" />
+            <element signature="e#3689#3690#0" expanded="false" />
+            <element signature="e#3720#3721#0" expanded="false" />
+            <element signature="e#3753#3754#0" expanded="false" />
+            <element signature="e#3780#3781#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2574,32 +2804,29 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/res/layout/item_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2607,7 +2834,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="35" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2615,9 +2841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2625,7 +2848,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="32" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="32" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#309#310#0" expanded="false" />
+            <element signature="e#353#354#0" expanded="false" />
+            <element signature="e#454#455#0" expanded="false" />
+            <element signature="e#502#503#0" expanded="false" />
+            <element signature="e#555#556#0" expanded="false" />
+            <element signature="e#611#612#0" expanded="false" />
+            <element signature="e#658#659#0" expanded="false" />
+            <element signature="e#705#706#0" expanded="false" />
+            <element signature="e#753#754#0" expanded="false" />
+            <element signature="e#801#802#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2633,10 +2868,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2644,7 +2875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2652,7 +2882,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1729#1730#0" expanded="false" />
+            <element signature="e#1777#1778#0" expanded="false" />
+            <element signature="e#3292#3293#0" expanded="false" />
+            <element signature="e#3319#3320#0" expanded="false" />
+            <element signature="e#3605#3606#0" expanded="false" />
+            <element signature="e#3646#3647#0" expanded="false" />
+            <element signature="e#3689#3690#0" expanded="false" />
+            <element signature="e#3720#3721#0" expanded="false" />
+            <element signature="e#3753#3754#0" expanded="false" />
+            <element signature="e#3780#3781#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2663,33 +2905,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.4838705">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MD5SignViewer/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.62857145">
           <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2697,7 +2916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2705,7 +2923,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2713,7 +2930,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2721,7 +2937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2729,7 +2944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2737,7 +2951,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2745,7 +2958,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.225806">
           <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2760,23 +2972,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/BasicAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/ToastUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2784,9 +2979,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2794,18 +2986,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="35" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/AppContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2813,38 +2993,297 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/res/layout/item_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/AppContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.espresso/espresso/1.1-r3/1c92c97bfeb211a4e3e88a1295d2446edbf417a1/espresso-1.1-r3-sources.jar!/com/google/android/apps/common/testing/ui/espresso/ViewInteraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="130" column="43" selection-start-line="130" selection-start-column="43" selection-end-line="130" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.espresso/espresso/1.1-r3/1c92c97bfeb211a4e3e88a1295d2446edbf417a1/espresso-1.1-r3-sources.jar!/com/google/android/apps/common/testing/ui/espresso/Espresso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.espresso/espresso/1.1-r3/1c92c97bfeb211a4e3e88a1295d2446edbf417a1/espresso-1.1-r3-sources.jar!/com/google/android/apps/common/testing/ui/espresso/ViewAssertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/android_sdk/sdk/sources/android-19/android/content/ContextWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="26" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#19266#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1896#1897#0" expanded="false" />
+            <element signature="e#1924#1925#0" expanded="false" />
+            <element signature="e#2527#2528#0" expanded="false" />
+            <element signature="e#2555#2556#0" expanded="false" />
+            <element signature="e#2608#2609#0" expanded="false" />
+            <element signature="e#2648#2649#0" expanded="false" />
+            <element signature="e#2705#2706#0" expanded="false" />
+            <element signature="e#2748#2749#0" expanded="false" />
+            <element signature="e#2811#2812#0" expanded="false" />
+            <element signature="e#2859#2860#0" expanded="false" />
+            <element signature="e#2924#2925#0" expanded="false" />
+            <element signature="e#2973#2974#0" expanded="false" />
+            <element signature="e#3024#3025#0" expanded="false" />
+            <element signature="e#3068#3069#0" expanded="false" />
+            <element signature="e#3132#3133#0" expanded="false" />
+            <element signature="e#3184#3185#0" expanded="false" />
+            <element signature="e#3241#3242#0" expanded="false" />
+            <element signature="e#3278#3279#0" expanded="false" />
+            <element signature="e#3343#3344#0" expanded="false" />
+            <element signature="e#3387#3388#0" expanded="false" />
+            <element signature="e#3442#3443#0" expanded="false" />
+            <element signature="e#3481#3482#0" expanded="false" />
+            <element signature="e#3538#3539#0" expanded="false" />
+            <element signature="e#3583#3584#0" expanded="false" />
+            <element signature="e#3635#3636#0" expanded="false" />
+            <element signature="e#3680#3681#0" expanded="false" />
+            <element signature="e#3753#3754#0" expanded="false" />
+            <element signature="e#3802#3803#0" expanded="false" />
+            <element signature="e#3873#3874#0" expanded="false" />
+            <element signature="e#3920#3921#0" expanded="false" />
+            <element signature="e#3985#3986#0" expanded="false" />
+            <element signature="e#4034#4035#0" expanded="false" />
+            <element signature="e#4098#4099#0" expanded="false" />
+            <element signature="e#4151#4152#0" expanded="false" />
+            <element signature="e#4207#4208#0" expanded="false" />
+            <element signature="e#4256#4257#0" expanded="false" />
+            <element signature="e#4338#4339#0" expanded="false" />
+            <element signature="e#4391#4392#0" expanded="false" />
+            <element signature="e#4933#4934#0" expanded="false" />
+            <element signature="e#4978#4979#0" expanded="false" />
+            <element signature="e#5042#5043#0" expanded="false" />
+            <element signature="e#5094#5095#0" expanded="false" />
+            <element signature="e#5142#5143#0" expanded="false" />
+            <element signature="e#5181#5182#0" expanded="false" />
+            <element signature="e#5228#5229#0" expanded="false" />
+            <element signature="e#5270#5271#0" expanded="false" />
+            <element signature="e#5340#5341#0" expanded="false" />
+            <element signature="e#5394#5395#0" expanded="false" />
+            <element signature="e#5463#5464#0" expanded="false" />
+            <element signature="e#5518#5519#0" expanded="false" />
+            <element signature="e#5563#5564#0" expanded="false" />
+            <element signature="e#5603#5604#0" expanded="false" />
+            <element signature="e#5651#5652#0" expanded="false" />
+            <element signature="e#5692#5693#0" expanded="false" />
+            <element signature="e#5739#5740#0" expanded="false" />
+            <element signature="e#5781#5782#0" expanded="false" />
+            <element signature="e#5836#5837#0" expanded="false" />
+            <element signature="e#5886#5887#0" expanded="false" />
+            <element signature="e#5944#5945#0" expanded="false" />
+            <element signature="e#5995#5996#0" expanded="false" />
+            <element signature="e#6058#6059#0" expanded="false" />
+            <element signature="e#6105#6106#0" expanded="false" />
+            <element signature="e#6590#6591#0" expanded="false" />
+            <element signature="e#6639#6640#0" expanded="false" />
+            <element signature="e#6701#6702#0" expanded="false" />
+            <element signature="e#6751#6752#0" expanded="false" />
+            <element signature="e#6803#6804#0" expanded="false" />
+            <element signature="e#6846#6847#0" expanded="false" />
+            <element signature="e#6898#6899#0" expanded="false" />
+            <element signature="e#6941#6942#0" expanded="false" />
+            <element signature="e#6994#6995#0" expanded="false" />
+            <element signature="e#7038#7039#0" expanded="false" />
+            <element signature="e#7104#7105#0" expanded="false" />
+            <element signature="e#7166#7167#0" expanded="false" />
+            <element signature="e#7710#7711#0" expanded="false" />
+            <element signature="e#7753#7754#0" expanded="false" />
+            <element signature="e#8289#8290#0" expanded="false" />
+            <element signature="e#8335#8336#0" expanded="false" />
+            <element signature="e#9402#9403#0" expanded="false" />
+            <element signature="e#9445#9446#0" expanded="false" />
+            <element signature="e#11631#11632#0" expanded="false" />
+            <element signature="e#11680#11681#0" expanded="false" />
+            <element signature="e#12118#12119#0" expanded="false" />
+            <element signature="e#12169#12170#0" expanded="false" />
+            <element signature="e#13853#13854#0" expanded="false" />
+            <element signature="e#13903#13904#0" expanded="false" />
+            <element signature="e#13964#13965#0" expanded="false" />
+            <element signature="e#14010#14011#0" expanded="false" />
+            <element signature="e#14811#14812#0" expanded="false" />
+            <element signature="e#14852#14853#0" expanded="false" />
+            <element signature="e#15133#15134#0" expanded="false" />
+            <element signature="e#15184#15185#0" expanded="false" />
+            <element signature="e#18656#18657#0" expanded="false" />
+            <element signature="e#18696#18697#0" expanded="false" />
+            <element signature="e#19057#19058#0" expanded="false" />
+            <element signature="e#19100#19101#0" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <caret line="68" column="40" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/res/layout/activity_main.xml">
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/BasicAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5322581">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="91" column="18" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1729#1730#0" expanded="false" />
+            <element signature="e#1777#1778#0" expanded="false" />
+            <element signature="e#3292#3293#0" expanded="false" />
+            <element signature="e#3319#3320#0" expanded="false" />
+            <element signature="e#3605#3606#0" expanded="false" />
+            <element signature="e#3646#3647#0" expanded="false" />
+            <element signature="e#3689#3690#0" expanded="false" />
+            <element signature="e#3720#3721#0" expanded="false" />
+            <element signature="e#3753#3754#0" expanded="false" />
+            <element signature="e#3780#3781#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#487#488#0" expanded="false" />
+            <element signature="e#518#519#0" expanded="false" />
+            <element signature="e#584#585#0" expanded="false" />
+            <element signature="e#624#625#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/test/java/com/kimi/md5signviewer/util/UtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/android_sdk/sdk/sources/android-19/android/content/DialogInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50898206">
+          <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/test/java/com/kimi/md5signviewer/MainActivityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/Md5Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#565#566#0" expanded="false" />
+            <element signature="e#589#590#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/test/java/com/kimi/md5signviewer/Md5AdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MD5SignViewer/src/main/java/com/kimi/md5signviewer/util/ToastUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#309#310#0" expanded="false" />
+            <element signature="e#353#354#0" expanded="false" />
+            <element signature="e#454#455#0" expanded="false" />
+            <element signature="e#502#503#0" expanded="false" />
+            <element signature="e#555#556#0" expanded="false" />
+            <element signature="e#611#612#0" expanded="false" />
+            <element signature="e#658#659#0" expanded="false" />
+            <element signature="e#705#706#0" expanded="false" />
+            <element signature="e#753#754#0" expanded="false" />
+            <element signature="e#801#802#0" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
